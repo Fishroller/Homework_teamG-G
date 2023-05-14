@@ -1,0 +1,8 @@
+css/
+img/
+tmp/
+js/
+index.html
+index.html_old
+*.DS_Store
+._*
